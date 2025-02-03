@@ -3,20 +3,22 @@ Analyzing BMI in relation to insurance charges
 
 ## Project Scope
 ### Questions:
-On average, do individuals with a BMI considered “underweight” have higher insurance costs than those with “healthy” or “overweight” BMIs?
-Which residential region has the highest average BMI?
-Which has the lowest?
-Do areas with higher BMIs also have higher insurance costs on average?
-Do smokers tend to have higher or lower BMI scores on average than non-smokers?
+* On average, do individuals with a BMI considered “underweight” have higher insurance costs than those with “healthy” or “overweight” BMIs?
+* Which residential region has the highest average BMI?
+* Which has the lowest?
+* Do areas with higher BMIs also have higher insurance costs on average?
+* Do smokers tend to have higher or lower BMI scores on average than non-smokers?
 
 ## Goals:
 Determine whether higher or lower BMIs correlate to variances in insurance costs. 
-Data:
+
+## Data:
 For this project, we’ll be using the medical insurance costs dataset provided by Codecademy. The dataset covers roughly 1,300 individuals with entries reflecting each individual’s age, biological sex, Body Mass Index (BMI), number of children, smoker status, residential region, and total charges paid by the insurance company. 
 
 It is important to note that the dataset does not include any additional information such as other medical conditions or environmental factors that may lead to increased costs. It is also important to note that BMI is a quantitative measure and not necessarily an accurate predictor of health. Insurance companies use BMI in their calculations and so it features in this project.
 
 For the purposes of this project, BMI classifications will be based on CDC classifications:
+
 Less than 18.5 = Underweight
 18.5 to < 25  = Healthy weight
 25 to < 30 = Overweight
