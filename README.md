@@ -9,7 +9,7 @@ Which has the lowest?
 Do areas with higher BMIs also have higher insurance costs on average?
 Do smokers tend to have higher or lower BMI scores on average than non-smokers?
 
-##Goals:
+## Goals:
 Determine whether higher or lower BMIs correlate to variances in insurance costs. 
 Data:
 For this project, we’ll be using the medical insurance costs dataset provided by Codecademy. The dataset covers roughly 1,300 individuals with entries reflecting each individual’s age, biological sex, Body Mass Index (BMI), number of children, smoker status, residential region, and total charges paid by the insurance company. 
